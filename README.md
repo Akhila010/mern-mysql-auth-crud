@@ -37,15 +37,24 @@ mern-mysql-auth-crud/
 ├── backend/
 │ ├── server.js
 │ ├── package.json
+
+
+
 │
 ├── frontend/
 │ ├── src/
 │ ├── public/
 │ ├── package.json
+
+
+
 │
 ├── screenshots/
 │ ├── login.png
 │ ├── register.png
 │ ├── dashboard.png
+
+
+
 │
 └── database.sql
